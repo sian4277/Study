@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Study-5월 9일_2일차</title>
+  </head>
+
+  <body>
+    <strong>5월 9일_2일차</strong>
+      <p>Hollys_옥수수빙수+콜드브루_오후9시</p>
+        <ol><li>링크를 연결할 파일or링크할 파일이 <strong>같은 경로</strong>에 있으면 파일이름만으로도 링크할 수 있는데 이것을 <u>상대경로(주소)개념</u>이라고 한다.</li><br>
+            <li>고객(클라이언트_client)와 사업자(서버_server)를 뜻하듯 요청하는 컴퓨터를 클라이언트 컴퓨터, 응답하는 컴퓨터는 서버 컴퓨터라고 부른다.</li><br>
+            <li>웹호스팅 서버는 깃허브(github pages)를 사용예정임/ID:sian4277</li><br>
+
+        </ol>
+  </body>
+  </html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Study-5월 7일_1일차</title>
+  </head>
+
+  <body>
+    <strong>5월 7일_1일차</strong>
+      <p>Hollys_그린티크림라떼+콜드브루_오후5시</p>
+      <p>1. <b>'b'=굵게</b>,<strong>'storng'=강조</strong>로 화면상에는 같게 나오지만 의미가 다름</p>
+      <p>2. <Span style="color:pink;">Span에 대한 간략한 설명(span style="color:pink;") 색깔이 바뀐다</span>_후에 학습예정</p>
+      <p><img src="green tea.jpg" width="60%"><br>
+        3. 사진을 넣는 태그(img src="green tea.jpg")로 src태그는 source의 줄임말이다<br>
+      width는 가로의 크기를 말하는 것으로 px과 해당 크기의 %로 사용할 수 있다 height는 세로로 px로만 입력된다._후에 학습예정</p>
+      <p>4. list(순서)를 줄여서 'li'태그를 사용하고 'li'의 부모태그는 'ul'과 'ol'이 있다.<br>
+        순서가 없는 목록 'ul'태그(unordered list), 순서가 있는 목록 'ol'태그(ordered list)를 쓴다<br>
+        Tip. 'ul'태그의 앞 도형을 사각형으로 변경시 "type=square"을, 'ol'태그의 알파벳으로 변경시 "type=a"를 쓰면된다.</p>
+      <p>5. 웹제목(탭에 나타나는 타이틀)은 'title'태그를 사용한다.
+      <p>6. char(문자)set(규칙)으로 charset="utf-8"은 문자규칙을 utf-8로 지정한다는 뜻임.</p>
+      <p>7. 'head'는 본문을 설명하는 태그이며, 'body'는 본문태그임, 이 둘의 상위태그는 'html'태그임 맨 위에는
+            '!doctype html'(독타입선언)이라고 기재함. 이것은 html 문서라는 것을 설명함</p>
+      <p>8. 'html'은 Hyper Text Markup Language의 약자이며 Hyper text는 'a'태그(anchor)를 의미한다.<br>
+            'a href="링크"를 넣으면 링크로 이동이 되며 href는(Hyper Text Reference의 약자다)<br>
+            Tip. target="_blank"는 새창에서 페이지가 열리게 하는 속성이다.<br>
+            Tip 2. title="설명하는 단어"를 넣으면 하이퍼링크위에 마우스를 갖다대었을 때 설명하는 단어가 뜬다.<br>
+            EX. 'a href="링크" target="_blank" title="설명하는 단어"' '/a' 로 끝낼 수 있다.</p>
+  </body>
+  </html>
